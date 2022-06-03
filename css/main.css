@@ -3,4 +3,37 @@
 }
 .nav-spacing {
   margin: 0 0 0 10px;
+  color: blue;
+  text-decoration: none;
   }
+.image-link {
+  text-decoration: none;
+}
+.header {
+  text-align: center;
+  margin: 0 0 80px;
+}
+.image {
+  display: block;
+  margin: 0 auto;
+}
+.moby_dick {
+  width: 500px;
+  margin: 20px auto;
+  padding: 30px;
+  background-color: #fafafa;
+}
+.image_float_left {
+  float: left;
+  margin: 0px 40px 0px 0px;"
+}
+.blockquote {
+  font-style: italic;
+  font-size: 20px;
+}
+.blockquote_intro {
+  font-style: normal;
+  font-size: 24px;
+  font-weight: bold;
+  color: #ff0000;
+}
